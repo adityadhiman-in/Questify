@@ -457,3 +457,7 @@ form{
   min-width: 330px;
   flex-wrap: wrap;
 }
+
+.frontPageContainer{
+  padding-top: 70px
+}
